@@ -1,0 +1,1964 @@
+@font-face {
+  font-family: 'qouod';
+  src:
+    url('fonts/qouod.ttf?1rlj39') format('truetype'),
+    url('fonts/qouod.woff?1rlj39') format('woff'),
+    url('fonts/qouod.svg?1rlj39#qouod') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="fa-"], [class*=" fa-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'qouod' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-AccountBookFilled:before {
+  content: "\e900";
+}
+.fa-AlertFilled:before {
+  content: "\e901";
+}
+.fa-AlertOutlined:before {
+  content: "\e902";
+}
+.fa-AlibabaOutlined:before {
+  content: "\e903";
+}
+.fa-AlignCenterOutlined:before {
+  content: "\e904";
+}
+.fa-AlignLeftOutlined:before {
+  content: "\e905";
+}
+.fa-AlignRightOutlined:before {
+  content: "\e906";
+}
+.fa-AlipayCircleFilled:before {
+  content: "\e907";
+}
+.fa-AlipayCircleOutlined:before {
+  content: "\e908";
+}
+.fa-AlipayOutlined:before {
+  content: "\e909";
+}
+.fa-AlipaySquareFilled:before {
+  content: "\e90a";
+}
+.fa-AliwangwangFilled:before {
+  content: "\e90b";
+}
+.fa-AliwangwangOutlined:before {
+  content: "\e90c";
+}
+.fa-AliyunOutlined:before {
+  content: "\e90d";
+}
+.fa-AmazonCircleFilled:before {
+  content: "\e90e";
+}
+.fa-AmazonOutlined:before {
+  content: "\e90f";
+}
+.fa-AmazonSquareFilled:before {
+  content: "\e910";
+}
+.fa-AndroidFilled:before {
+  content: "\e911";
+}
+.fa-AndroidOutlined:before {
+  content: "\e912";
+}
+.fa-AntCloudOutlined:before {
+  content: "\e913";
+}
+.fa-AntDesignOutlined:before {
+  content: "\e914";
+}
+.fa-ApartmentOutlined:before {
+  content: "\e915";
+}
+.fa-ApiFilled:before {
+  content: "\e916";
+}
+.fa-ApiOutlined:before {
+  content: "\e917";
+}
+.fa-AppleFilled:before {
+  content: "\e918";
+}
+.fa-AppleOutlined:before {
+  content: "\e919";
+}
+.fa-AppstoreAddOutlined:before {
+  content: "\e91a";
+}
+.fa-AppstoreFilled:before {
+  content: "\e91b";
+}
+.fa-AppstoreOutlined:before {
+  content: "\e91c";
+}
+.fa-AreaChartOutlined:before {
+  content: "\e91d";
+}
+.fa-ArrowDownOutlined:before {
+  content: "\e91e";
+}
+.fa-ArrowLeftOutlined:before {
+  content: "\e91f";
+}
+.fa-ArrowRightOutlined:before {
+  content: "\e920";
+}
+.fa-ArrowsAltOutlined:before {
+  content: "\e921";
+}
+.fa-ArrowUpOutlined:before {
+  content: "\e922";
+}
+.fa-AudioFilled:before {
+  content: "\e923";
+}
+.fa-AudioMutedOutlined:before {
+  content: "\e924";
+}
+.fa-AudioOutlined:before {
+  content: "\e925";
+}
+.fa-AuditOutlined:before {
+  content: "\e926";
+}
+.fa-BackwardFilled:before {
+  content: "\e927";
+}
+.fa-BackwardOutlined:before {
+  content: "\e928";
+}
+.fa-BankFilled:before {
+  content: "\e929";
+}
+.fa-BankOutlined:before {
+  content: "\e92a";
+}
+.fa-BarChartOutlined:before {
+  content: "\e92b";
+}
+.fa-BarcodeOutlined:before {
+  content: "\e92c";
+}
+.fa-BarsOutlined:before {
+  content: "\e92d";
+}
+.fa-BehanceCircleFilled:before {
+  content: "\e92e";
+}
+.fa-BehanceOutlined:before {
+  content: "\e92f";
+}
+.fa-BehanceSquareFilled:before {
+  content: "\e930";
+}
+.fa-BehanceSquareOutlined:before {
+  content: "\e931";
+}
+.fa-BellFilled:before {
+  content: "\e932";
+}
+.fa-BellOutlined:before {
+  content: "\e933";
+}
+.fa-BgColorsOutlined:before {
+  content: "\e934";
+}
+.fa-BlockOutlined:before {
+  content: "\e935";
+}
+.fa-BoldOutlined:before {
+  content: "\e936";
+}
+.fa-BookFilled:before {
+  content: "\e937";
+}
+.fa-BookOutlined:before {
+  content: "\e938";
+}
+.fa-BorderBottomOutlined:before {
+  content: "\e939";
+}
+.fa-BorderHorizontalOutlined:before {
+  content: "\e93a";
+}
+.fa-BorderInnerOutlined:before {
+  content: "\e93b";
+}
+.fa-BorderLeftOutlined:before {
+  content: "\e93c";
+}
+.fa-BorderlessTableOutlined:before {
+  content: "\e93d";
+}
+.fa-BorderOuterOutlined:before {
+  content: "\e93e";
+}
+.fa-BorderOutlined:before {
+  content: "\e93f";
+}
+.fa-BorderRightOutlined:before {
+  content: "\e940";
+}
+.fa-BorderTopOutlined:before {
+  content: "\e941";
+}
+.fa-BorderVerticleOutlined:before {
+  content: "\e942";
+}
+.fa-BoxPlotFilled:before {
+  content: "\e943";
+}
+.fa-BoxPlotOutlined:before {
+  content: "\e944";
+}
+.fa-BranchesOutlined:before {
+  content: "\e945";
+}
+.fa-BugFilled:before {
+  content: "\e946";
+}
+.fa-BugOutlined:before {
+  content: "\e947";
+}
+.fa-BuildFilled:before {
+  content: "\e948";
+}
+.fa-BuildOutlined:before {
+  content: "\e949";
+}
+.fa-BulbFilled:before {
+  content: "\e94a";
+}
+.fa-BulbOutlined:before {
+  content: "\e94b";
+}
+.fa-CalculatorFilled:before {
+  content: "\e94c";
+}
+.fa-CalculatorOutlined:before {
+  content: "\e94d";
+}
+.fa-CalendarFilled:before {
+  content: "\e94e";
+}
+.fa-CalendarOutlined:before {
+  content: "\e94f";
+}
+.fa-CameraFilled:before {
+  content: "\e950";
+}
+.fa-CameraOutlined:before {
+  content: "\e951";
+}
+.fa-CaretDownFilled:before {
+  content: "\e952";
+}
+.fa-CaretDownOutlined:before {
+  content: "\e953";
+}
+.fa-CaretLeftFilled:before {
+  content: "\e954";
+}
+.fa-CaretLeftOutlined:before {
+  content: "\e955";
+}
+.fa-CaretRightFilled:before {
+  content: "\e956";
+}
+.fa-CaretRightOutlined:before {
+  content: "\e957";
+}
+.fa-CaretUpFilled:before {
+  content: "\e958";
+}
+.fa-CaretUpOutlined:before {
+  content: "\e959";
+}
+.fa-CarFilled:before {
+  content: "\e95a";
+}
+.fa-CarOutlined:before {
+  content: "\e95b";
+}
+.fa-CarryOutFilled:before {
+  content: "\e95c";
+}
+.fa-CarryOutOutlined:before {
+  content: "\e95d";
+}
+.fa-CheckCircleFilled:before {
+  content: "\e95e";
+}
+.fa-CheckCircleOutlined:before {
+  content: "\e95f";
+}
+.fa-CheckOutlined:before {
+  content: "\e960";
+}
+.fa-CheckSquareFilled:before {
+  content: "\e961";
+}
+.fa-CheckSquareOutlined:before {
+  content: "\e962";
+}
+.fa-ChromeFilled:before {
+  content: "\e963";
+}
+.fa-ChromeOutlined:before {
+  content: "\e964";
+}
+.fa-CiCircleFilled:before {
+  content: "\e965";
+}
+.fa-CiCircleOutlined:before {
+  content: "\e966";
+}
+.fa-CiOutlined:before {
+  content: "\e967";
+}
+.fa-ClearOutlined:before {
+  content: "\e968";
+}
+.fa-ClockCircleFilled:before {
+  content: "\e969";
+}
+.fa-ClockCircleOutlined:before {
+  content: "\e96a";
+}
+.fa-CloseCircleFilled:before {
+  content: "\e96b";
+}
+.fa-CloseCircleOutlined:before {
+  content: "\e96c";
+}
+.fa-CloseOutlined:before {
+  content: "\e96d";
+}
+.fa-CloseSquareFilled:before {
+  content: "\e96e";
+}
+.fa-CloseSquareOutlined:before {
+  content: "\e96f";
+}
+.fa-CloudDownloadOutlined:before {
+  content: "\e970";
+}
+.fa-CloudFilled:before {
+  content: "\e971";
+}
+.fa-CloudOutlined:before {
+  content: "\e972";
+}
+.fa-CloudServerOutlined:before {
+  content: "\e973";
+}
+.fa-CloudSyncOutlined:before {
+  content: "\e974";
+}
+.fa-CloudUploadOutlined:before {
+  content: "\e975";
+}
+.fa-ClusterOutlined:before {
+  content: "\e976";
+}
+.fa-CodeFilled:before {
+  content: "\e977";
+}
+.fa-CodeOutlined:before {
+  content: "\e978";
+}
+.fa-CodepenCircleFilled:before {
+  content: "\e979";
+}
+.fa-CodepenCircleOutlined:before {
+  content: "\e97a";
+}
+.fa-CodepenOutlined:before {
+  content: "\e97b";
+}
+.fa-CodepenSquareFilled:before {
+  content: "\e97c";
+}
+.fa-CodeSandboxCircleFilled:before {
+  content: "\e97d";
+}
+.fa-CodeSandboxOutlined:before {
+  content: "\e97e";
+}
+.fa-CodeSandboxSquareFilled:before {
+  content: "\e97f";
+}
+.fa-CoffeeOutlined:before {
+  content: "\e980";
+}
+.fa-ColumnHeightOutlined:before {
+  content: "\e981";
+}
+.fa-ColumnWidthOutlined:before {
+  content: "\e982";
+}
+.fa-CommentOutlined:before {
+  content: "\e983";
+}
+.fa-CompassFilled:before {
+  content: "\e984";
+}
+.fa-CompassOutlined:before {
+  content: "\e985";
+}
+.fa-CompressOutlined:before {
+  content: "\e986";
+}
+.fa-ConsoleSqlOutlined:before {
+  content: "\e987";
+}
+.fa-ContactsFilled:before {
+  content: "\e988";
+}
+.fa-ContactsOutlined:before {
+  content: "\e989";
+}
+.fa-ContainerFilled:before {
+  content: "\e98a";
+}
+.fa-ContainerOutlined:before {
+  content: "\e98b";
+}
+.fa-ControlFilled:before {
+  content: "\e98c";
+}
+.fa-ControlOutlined:before {
+  content: "\e98d";
+}
+.fa-CopyFilled:before {
+  content: "\e98e";
+}
+.fa-CopyOutlined:before {
+  content: "\e98f";
+}
+.fa-CopyrightCircleFilled:before {
+  content: "\e990";
+}
+.fa-CopyrightCircleOutlined:before {
+  content: "\e991";
+}
+.fa-CopyrightOutlined:before {
+  content: "\e992";
+}
+.fa-CreditCardFilled:before {
+  content: "\e993";
+}
+.fa-CreditCardOutlined:before {
+  content: "\e994";
+}
+.fa-CrownFilled:before {
+  content: "\e995";
+}
+.fa-CrownOutlined:before {
+  content: "\e996";
+}
+.fa-CustomerServiceFilled:before {
+  content: "\e997";
+}
+.fa-CustomerServiceOutlined:before {
+  content: "\e998";
+}
+.fa-DashboardFilled:before {
+  content: "\e999";
+}
+.fa-DashboardOutlined:before {
+  content: "\e99a";
+}
+.fa-DashOutlined:before {
+  content: "\e99b";
+}
+.fa-DatabaseFilled:before {
+  content: "\e99c";
+}
+.fa-DatabaseOutlined:before {
+  content: "\e99d";
+}
+.fa-DeleteColumnOutlined:before {
+  content: "\e99e";
+}
+.fa-DeleteFilled:before {
+  content: "\e99f";
+}
+.fa-DeleteOutlined:before {
+  content: "\e9a0";
+}
+.fa-DeleteRowOutlined:before {
+  content: "\e9a1";
+}
+.fa-DeliveredProcedureOutlined:before {
+  content: "\e9a2";
+}
+.fa-DeploymentUnitOutlined:before {
+  content: "\e9a3";
+}
+.fa-DesktopOutlined:before {
+  content: "\e9a4";
+}
+.fa-DiffFilled:before {
+  content: "\e9a5";
+}
+.fa-DiffOutlined:before {
+  content: "\e9a6";
+}
+.fa-DingdingOutlined:before {
+  content: "\e9a7";
+}
+.fa-DingtalkCircleFilled:before {
+  content: "\e9a8";
+}
+.fa-DingtalkOutlined:before {
+  content: "\e9a9";
+}
+.fa-DingtalkSquareFilled:before {
+  content: "\e9aa";
+}
+.fa-DisconnectOutlined:before {
+  content: "\e9ab";
+}
+.fa-DislikeFilled:before {
+  content: "\e9ac";
+}
+.fa-DislikeOutlined:before {
+  content: "\e9ad";
+}
+.fa-DollarCircleFilled:before {
+  content: "\e9ae";
+}
+.fa-DollarCircleOutlined:before {
+  content: "\e9af";
+}
+.fa-DollarOutlined:before {
+  content: "\e9b0";
+}
+.fa-DotChartOutlined:before {
+  content: "\e9b1";
+}
+.fa-DoubleLeftOutlined:before {
+  content: "\e9b2";
+}
+.fa-DoubleRightOutlined:before {
+  content: "\e9b3";
+}
+.fa-DownCircleFilled:before {
+  content: "\e9b4";
+}
+.fa-DownCircleOutlined:before {
+  content: "\e9b5";
+}
+.fa-DownloadOutlined:before {
+  content: "\e9b6";
+}
+.fa-DownOutlined:before {
+  content: "\e9b7";
+}
+.fa-DownSquareFilled:before {
+  content: "\e9b8";
+}
+.fa-DownSquareOutlined:before {
+  content: "\e9b9";
+}
+.fa-DragOutlined:before {
+  content: "\e9ba";
+}
+.fa-DribbbleCircleFilled:before {
+  content: "\e9bb";
+}
+.fa-DribbbleOutlined:before {
+  content: "\e9bc";
+}
+.fa-DribbbleSquareFilled:before {
+  content: "\e9bd";
+}
+.fa-DribbbleSquareOutlined:before {
+  content: "\e9be";
+}
+.fa-DropboxCircleFilled:before {
+  content: "\e9bf";
+}
+.fa-DropboxOutlined:before {
+  content: "\e9c0";
+}
+.fa-DropboxSquareFilled:before {
+  content: "\e9c1";
+}
+.fa-EditFilled:before {
+  content: "\e9c2";
+}
+.fa-EditOutlined:before {
+  content: "\e9c3";
+}
+.fa-EllipsisOutlined:before {
+  content: "\e9c4";
+}
+.fa-EnterOutlined:before {
+  content: "\e9c5";
+}
+.fa-EnvironmentFilled:before {
+  content: "\e9c6";
+}
+.fa-EnvironmentOutlined:before {
+  content: "\e9c7";
+}
+.fa-EuroCircleFilled:before {
+  content: "\e9c8";
+}
+.fa-EuroCircleOutlined:before {
+  content: "\e9c9";
+}
+.fa-EuroOutlined:before {
+  content: "\e9ca";
+}
+.fa-ExceptionOutlined:before {
+  content: "\e9cb";
+}
+.fa-ExclamationCircleFilled:before {
+  content: "\e9cc";
+}
+.fa-ExclamationCircleOutlined:before {
+  content: "\e9cd";
+}
+.fa-ExclamationOutlined:before {
+  content: "\e9ce";
+}
+.fa-ExpandAltOutlined:before {
+  content: "\e9cf";
+}
+.fa-ExpandOutlined:before {
+  content: "\e9d0";
+}
+.fa-ExperimentFilled:before {
+  content: "\e9d1";
+}
+.fa-ExperimentOutlined:before {
+  content: "\e9d2";
+}
+.fa-ExportOutlined:before {
+  content: "\e9d3";
+}
+.fa-EyeFilled:before {
+  content: "\e9d4";
+}
+.fa-EyeInvisibleFilled:before {
+  content: "\e9d5";
+}
+.fa-EyeInvisibleOutlined:before {
+  content: "\e9d6";
+}
+.fa-EyeOutlined:before {
+  content: "\e9d7";
+}
+.fa-FacebookFilled:before {
+  content: "\e9d8";
+}
+.fa-FacebookOutlined:before {
+  content: "\e9d9";
+}
+.fa-FallOutlined:before {
+  content: "\e9da";
+}
+.fa-FastBackwardFilled:before {
+  content: "\e9db";
+}
+.fa-FastBackwardOutlined:before {
+  content: "\e9dc";
+}
+.fa-FastForwardFilled:before {
+  content: "\e9dd";
+}
+.fa-FastForwardOutlined:before {
+  content: "\e9de";
+}
+.fa-FieldBinaryOutlined:before {
+  content: "\e9df";
+}
+.fa-FieldNumberOutlined:before {
+  content: "\e9e0";
+}
+.fa-FieldStringOutlined:before {
+  content: "\e9e1";
+}
+.fa-FieldTimeOutlined:before {
+  content: "\e9e2";
+}
+.fa-FileAddFilled:before {
+  content: "\e9e3";
+}
+.fa-FileAddOutlined:before {
+  content: "\e9e4";
+}
+.fa-FileDoneOutlined:before {
+  content: "\e9e5";
+}
+.fa-FileExcelFilled:before {
+  content: "\e9e6";
+}
+.fa-FileExcelOutlined:before {
+  content: "\e9e7";
+}
+.fa-FileExclamationFilled:before {
+  content: "\e9e8";
+}
+.fa-FileExclamationOutlined:before {
+  content: "\e9e9";
+}
+.fa-FileFilled:before {
+  content: "\e9ea";
+}
+.fa-FileGifOutlined:before {
+  content: "\e9eb";
+}
+.fa-FileImageFilled:before {
+  content: "\e9ec";
+}
+.fa-FileImageOutlined:before {
+  content: "\e9ed";
+}
+.fa-FileJpgOutlined:before {
+  content: "\e9ee";
+}
+.fa-FileMarkdownFilled:before {
+  content: "\e9ef";
+}
+.fa-FileMarkdownOutlined:before {
+  content: "\e9f0";
+}
+.fa-FileOutlined:before {
+  content: "\e9f1";
+}
+.fa-FilePdfFilled:before {
+  content: "\e9f2";
+}
+.fa-FilePdfOutlined:before {
+  content: "\e9f3";
+}
+.fa-FilePptFilled:before {
+  content: "\e9f4";
+}
+.fa-FilePptOutlined:before {
+  content: "\e9f5";
+}
+.fa-FileProtectOutlined:before {
+  content: "\e9f6";
+}
+.fa-FileSearchOutlined:before {
+  content: "\e9f7";
+}
+.fa-FileSyncOutlined:before {
+  content: "\e9f8";
+}
+.fa-FileTextFilled:before {
+  content: "\e9f9";
+}
+.fa-FileTextOutlined:before {
+  content: "\e9fa";
+}
+.fa-FileUnknownFilled:before {
+  content: "\e9fb";
+}
+.fa-FileUnknownOutlined:before {
+  content: "\e9fc";
+}
+.fa-FileWordFilled:before {
+  content: "\e9fd";
+}
+.fa-FileWordOutlined:before {
+  content: "\e9fe";
+}
+.fa-FileZipFilled:before {
+  content: "\e9ff";
+}
+.fa-FileZipOutlined:before {
+  content: "\ea00";
+}
+.fa-FilterFilled:before {
+  content: "\ea01";
+}
+.fa-FilterOutlined:before {
+  content: "\ea02";
+}
+.fa-FireFilled:before {
+  content: "\ea03";
+}
+.fa-FireOutlined:before {
+  content: "\ea04";
+}
+.fa-FlagFilled:before {
+  content: "\ea05";
+}
+.fa-FlagOutlined:before {
+  content: "\ea06";
+}
+.fa-FolderAddFilled:before {
+  content: "\ea07";
+}
+.fa-FolderAddOutlined:before {
+  content: "\ea08";
+}
+.fa-FolderFilled:before {
+  content: "\ea09";
+}
+.fa-FolderOpenFilled:before {
+  content: "\ea0a";
+}
+.fa-FolderOpenOutlined:before {
+  content: "\ea0b";
+}
+.fa-FolderOutlined:before {
+  content: "\ea0c";
+}
+.fa-FolderViewOutlined:before {
+  content: "\ea0d";
+}
+.fa-FontColorsOutlined:before {
+  content: "\ea0e";
+}
+.fa-FontSizeOutlined:before {
+  content: "\ea0f";
+}
+.fa-ForkOutlined:before {
+  content: "\ea10";
+}
+.fa-FormatPainterFilled:before {
+  content: "\ea11";
+}
+.fa-FormatPainterOutlined:before {
+  content: "\ea12";
+}
+.fa-FormOutlined:before {
+  content: "\ea13";
+}
+.fa-ForwardFilled:before {
+  content: "\ea14";
+}
+.fa-ForwardOutlined:before {
+  content: "\ea15";
+}
+.fa-FrownFilled:before {
+  content: "\ea16";
+}
+.fa-FrownOutlined:before {
+  content: "\ea17";
+}
+.fa-FullscreenExitOutlined:before {
+  content: "\ea18";
+}
+.fa-FullscreenOutlined:before {
+  content: "\ea19";
+}
+.fa-FunctionOutlined:before {
+  content: "\ea1a";
+}
+.fa-FundFilled:before {
+  content: "\ea1b";
+}
+.fa-FundOutlined:before {
+  content: "\ea1c";
+}
+.fa-FundProjectionScreenOutlined:before {
+  content: "\ea1d";
+}
+.fa-FundViewOutlined:before {
+  content: "\ea1e";
+}
+.fa-FunnelPlotFilled:before {
+  content: "\ea1f";
+}
+.fa-FunnelPlotOutlined:before {
+  content: "\ea20";
+}
+.fa-GatewayOutlined:before {
+  content: "\ea21";
+}
+.fa-GifOutlined:before {
+  content: "\ea22";
+}
+.fa-GiftFilled:before {
+  content: "\ea23";
+}
+.fa-GiftOutlined:before {
+  content: "\ea24";
+}
+.fa-GithubFilled:before {
+  content: "\ea25";
+}
+.fa-GithubOutlined:before {
+  content: "\ea26";
+}
+.fa-GitlabFilled:before {
+  content: "\ea27";
+}
+.fa-GitlabOutlined:before {
+  content: "\ea28";
+}
+.fa-GlobalOutlined:before {
+  content: "\ea29";
+}
+.fa-GoldenFilled:before {
+  content: "\ea2a";
+}
+.fa-GoldFilled:before {
+  content: "\ea2b";
+}
+.fa-GoldOutlined:before {
+  content: "\ea2c";
+}
+.fa-GoogleCircleFilled:before {
+  content: "\ea2d";
+}
+.fa-GoogleOutlined:before {
+  content: "\ea2e";
+}
+.fa-GooglePlusCircleFilled:before {
+  content: "\ea2f";
+}
+.fa-GooglePlusOutlined:before {
+  content: "\ea30";
+}
+.fa-GooglePlusSquareFilled:before {
+  content: "\ea31";
+}
+.fa-GoogleSquareFilled:before {
+  content: "\ea32";
+}
+.fa-GroupOutlined:before {
+  content: "\ea33";
+}
+.fa-HddFilled:before {
+  content: "\ea34";
+}
+.fa-HddOutlined:before {
+  content: "\ea35";
+}
+.fa-HeartFilled:before {
+  content: "\ea36";
+}
+.fa-HeartOutlined:before {
+  content: "\ea37";
+}
+.fa-HeatMapOutlined:before {
+  content: "\ea38";
+}
+.fa-HighlightFilled:before {
+  content: "\ea39";
+}
+.fa-HighlightOutlined:before {
+  content: "\ea3a";
+}
+.fa-HistoryOutlined:before {
+  content: "\ea3b";
+}
+.fa-HomeFilled:before {
+  content: "\ea3c";
+}
+.fa-HomeOutlined:before {
+  content: "\ea3d";
+}
+.fa-HourglassFilled:before {
+  content: "\ea3e";
+}
+.fa-HourglassOutlined:before {
+  content: "\ea3f";
+}
+.fa-Html5Filled:before {
+  content: "\ea40";
+}
+.fa-Html5Outlined:before {
+  content: "\ea41";
+}
+.fa-IdcardFilled:before {
+  content: "\ea42";
+}
+.fa-IdcardOutlined:before {
+  content: "\ea43";
+}
+.fa-IeCircleFilled:before {
+  content: "\ea44";
+}
+.fa-IeOutlined:before {
+  content: "\ea45";
+}
+.fa-IeSquareFilled:before {
+  content: "\ea46";
+}
+.fa-ImportOutlined:before {
+  content: "\ea47";
+}
+.fa-InboxOutlined:before {
+  content: "\ea48";
+}
+.fa-InfoCircleFilled:before {
+  content: "\ea49";
+}
+.fa-InfoCircleOutlined:before {
+  content: "\ea4a";
+}
+.fa-InfoOutlined:before {
+  content: "\ea4b";
+}
+.fa-InsertRowAboveOutlined:before {
+  content: "\ea4c";
+}
+.fa-InsertRowBelowOutlined:before {
+  content: "\ea4d";
+}
+.fa-InsertRowLeftOutlined:before {
+  content: "\ea4e";
+}
+.fa-InsertRowRightOutlined:before {
+  content: "\ea4f";
+}
+.fa-InstagramFilled:before {
+  content: "\ea50";
+}
+.fa-InstagramOutlined:before {
+  content: "\ea51";
+}
+.fa-InsuranceFilled:before {
+  content: "\ea52";
+}
+.fa-InsuranceOutlined:before {
+  content: "\ea53";
+}
+.fa-InteractionFilled:before {
+  content: "\ea54";
+}
+.fa-InteractionOutlined:before {
+  content: "\ea55";
+}
+.fa-IssuesCloseOutlined:before {
+  content: "\ea56";
+}
+.fa-ItalicOutlined:before {
+  content: "\ea57";
+}
+.fa-KeyOutlined:before {
+  content: "\ea58";
+}
+.fa-LaptopOutlined:before {
+  content: "\ea59";
+}
+.fa-LayoutFilled:before {
+  content: "\ea5a";
+}
+.fa-LayoutOutlined:before {
+  content: "\ea5b";
+}
+.fa-LeftCircleFilled:before {
+  content: "\ea5c";
+}
+.fa-LeftCircleOutlined:before {
+  content: "\ea5d";
+}
+.fa-LeftOutlined:before {
+  content: "\ea5e";
+}
+.fa-LeftSquareFilled:before {
+  content: "\ea5f";
+}
+.fa-LeftSquareOutlined:before {
+  content: "\ea60";
+}
+.fa-LikeFilled:before {
+  content: "\ea61";
+}
+.fa-LikeOutlined:before {
+  content: "\ea62";
+}
+.fa-LineChartOutlined:before {
+  content: "\ea63";
+}
+.fa-LineHeightOutlined:before {
+  content: "\ea64";
+}
+.fa-LineOutlined:before {
+  content: "\ea65";
+}
+.fa-LinkedinFilled:before {
+  content: "\ea66";
+}
+.fa-LinkedinOutlined:before {
+  content: "\ea67";
+}
+.fa-LinkOutlined:before {
+  content: "\ea68";
+}
+.fa-Loading3QuartersOutlined:before {
+  content: "\ea69";
+}
+.fa-LoadingOutlined:before {
+  content: "\ea6a";
+}
+.fa-LockFilled:before {
+  content: "\ea6b";
+}
+.fa-LockOutlined:before {
+  content: "\ea6c";
+}
+.fa-LoginOutlined:before {
+  content: "\ea6d";
+}
+.fa-LogoutOutlined:before {
+  content: "\ea6e";
+}
+.fa-MacCommandFilled:before {
+  content: "\ea6f";
+}
+.fa-MacCommandOutlined:before {
+  content: "\ea70";
+}
+.fa-MailFilled:before {
+  content: "\ea71";
+}
+.fa-MailOutlined:before {
+  content: "\ea72";
+}
+.fa-ManOutlined:before {
+  content: "\ea73";
+}
+.fa-MedicineBoxFilled:before {
+  content: "\ea74";
+}
+.fa-MedicineBoxOutlined:before {
+  content: "\ea75";
+}
+.fa-MediumCircleFilled:before {
+  content: "\ea76";
+}
+.fa-MediumOutlined:before {
+  content: "\ea77";
+}
+.fa-MediumSquareFilled:before {
+  content: "\ea78";
+}
+.fa-MediumWorkmarkOutlined:before {
+  content: "\ea79";
+}
+.fa-MehFilled:before {
+  content: "\ea7a";
+}
+.fa-MehOutlined:before {
+  content: "\ea7b";
+}
+.fa-MenuFoldOutlined:before {
+  content: "\ea7c";
+}
+.fa-MenuOutlined:before {
+  content: "\ea7d";
+}
+.fa-MenuUnfoldOutlined:before {
+  content: "\ea7e";
+}
+.fa-MergeCellsOutlined:before {
+  content: "\ea7f";
+}
+.fa-MessageFilled:before {
+  content: "\ea80";
+}
+.fa-MessageOutlined:before {
+  content: "\ea81";
+}
+.fa-MinusCircleFilled:before {
+  content: "\ea82";
+}
+.fa-MinusCircleOutlined:before {
+  content: "\ea83";
+}
+.fa-MinusOutlined:before {
+  content: "\ea84";
+}
+.fa-MinusSquareFilled:before {
+  content: "\ea85";
+}
+.fa-MinusSquareOutlined:before {
+  content: "\ea86";
+}
+.fa-MobileFilled:before {
+  content: "\ea87";
+}
+.fa-MobileOutlined:before {
+  content: "\ea88";
+}
+.fa-MoneyCollectFilled:before {
+  content: "\ea89";
+}
+.fa-MoneyCollectOutlined:before {
+  content: "\ea8a";
+}
+.fa-MonitorOutlined:before {
+  content: "\ea8b";
+}
+.fa-MoreOutlined:before {
+  content: "\ea8c";
+}
+.fa-NodeCollapseOutlined:before {
+  content: "\ea8d";
+}
+.fa-NodeExpandOutlined:before {
+  content: "\ea8e";
+}
+.fa-NodeIndexOutlined:before {
+  content: "\ea8f";
+}
+.fa-NotificationFilled:before {
+  content: "\ea90";
+}
+.fa-NotificationOutlined:before {
+  content: "\ea91";
+}
+.fa-NumberOutlined:before {
+  content: "\ea92";
+}
+.fa-OneToOneOutlined:before {
+  content: "\ea93";
+}
+.fa-OrderedListOutlined:before {
+  content: "\ea94";
+}
+.fa-PaperClipOutlined:before {
+  content: "\ea95";
+}
+.fa-PartitionOutlined:before {
+  content: "\ea96";
+}
+.fa-PauseCircleFilled:before {
+  content: "\ea97";
+}
+.fa-PauseCircleOutlined:before {
+  content: "\ea98";
+}
+.fa-PauseOutlined:before {
+  content: "\ea99";
+}
+.fa-PayCircleFilled:before {
+  content: "\ea9a";
+}
+.fa-PayCircleOutlined:before {
+  content: "\ea9b";
+}
+.fa-PercentageOutlined:before {
+  content: "\ea9c";
+}
+.fa-PhoneFilled:before {
+  content: "\ea9d";
+}
+.fa-PhoneOutlined:before {
+  content: "\ea9e";
+}
+.fa-PicCenterOutlined:before {
+  content: "\ea9f";
+}
+.fa-PicLeftOutlined:before {
+  content: "\eaa0";
+}
+.fa-PicRightOutlined:before {
+  content: "\eaa1";
+}
+.fa-PictureFilled:before {
+  content: "\eaa2";
+}
+.fa-PictureOutlined:before {
+  content: "\eaa3";
+}
+.fa-PieChartFilled:before {
+  content: "\eaa4";
+}
+.fa-PieChartOutlined:before {
+  content: "\eaa5";
+}
+.fa-PlayCircleFilled:before {
+  content: "\eaa6";
+}
+.fa-PlayCircleOutlined:before {
+  content: "\eaa7";
+}
+.fa-PlaySquareFilled:before {
+  content: "\eaa8";
+}
+.fa-PlaySquareOutlined:before {
+  content: "\eaa9";
+}
+.fa-PlusCircleFilled:before {
+  content: "\eaaa";
+}
+.fa-PlusCircleOutlined:before {
+  content: "\eaab";
+}
+.fa-PlusOutlined:before {
+  content: "\eaac";
+}
+.fa-PlusSquareFilled:before {
+  content: "\eaad";
+}
+.fa-PlusSquareOutlined:before {
+  content: "\eaae";
+}
+.fa-PoundCircleFilled:before {
+  content: "\eaaf";
+}
+.fa-PoundCircleOutlined:before {
+  content: "\eab0";
+}
+.fa-PoundOutlined:before {
+  content: "\eab1";
+}
+.fa-PoweroffOutlined:before {
+  content: "\eab2";
+}
+.fa-PrinterFilled:before {
+  content: "\eab3";
+}
+.fa-PrinterOutlined:before {
+  content: "\eab4";
+}
+.fa-ProfileFilled:before {
+  content: "\eab5";
+}
+.fa-ProfileOutlined:before {
+  content: "\eab6";
+}
+.fa-ProjectFilled:before {
+  content: "\eab7";
+}
+.fa-ProjectOutlined:before {
+  content: "\eab8";
+}
+.fa-PropertySafetyFilled:before {
+  content: "\eab9";
+}
+.fa-PropertySafetyOutlined:before {
+  content: "\eaba";
+}
+.fa-PullRequestOutlined:before {
+  content: "\eabb";
+}
+.fa-PushpinFilled:before {
+  content: "\eabc";
+}
+.fa-PushpinOutlined:before {
+  content: "\eabd";
+}
+.fa-QqCircleFilled:before {
+  content: "\eabe";
+}
+.fa-QqOutlined:before {
+  content: "\eabf";
+}
+.fa-QqSquareFilled:before {
+  content: "\eac0";
+}
+.fa-QrcodeOutlined:before {
+  content: "\eac1";
+}
+.fa-QuestionCircleFilled:before {
+  content: "\eac2";
+}
+.fa-QuestionCircleOutlined:before {
+  content: "\eac3";
+}
+.fa-QuestionOutlined:before {
+  content: "\eac4";
+}
+.fa-RadarChartOutlined:before {
+  content: "\eac5";
+}
+.fa-RadiusBottomleftOutlined:before {
+  content: "\eac6";
+}
+.fa-RadiusBottomrightOutlined:before {
+  content: "\eac7";
+}
+.fa-RadiusSettingOutlined:before {
+  content: "\eac8";
+}
+.fa-RadiusUpleftOutlined:before {
+  content: "\eac9";
+}
+.fa-RadiusUprightOutlined:before {
+  content: "\eaca";
+}
+.fa-ReadFilled:before {
+  content: "\eacb";
+}
+.fa-ReadOutlined:before {
+  content: "\eacc";
+}
+.fa-ReconciliationFilled:before {
+  content: "\eacd";
+}
+.fa-ReconciliationOutlined:before {
+  content: "\eace";
+}
+.fa-RedditCircleFilled:before {
+  content: "\eacf";
+}
+.fa-RedditOutlined:before {
+  content: "\ead0";
+}
+.fa-RedditSquareFilled:before {
+  content: "\ead1";
+}
+.fa-RedEnvelopeFilled:before {
+  content: "\ead2";
+}
+.fa-RedEnvelopeOutlined:before {
+  content: "\ead3";
+}
+.fa-RedoOutlined:before {
+  content: "\ead4";
+}
+.fa-ReloadOutlined:before {
+  content: "\ead5";
+}
+.fa-RestFilled:before {
+  content: "\ead6";
+}
+.fa-RestOutlined:before {
+  content: "\ead7";
+}
+.fa-RetweetOutlined:before {
+  content: "\ead8";
+}
+.fa-RightCircleFilled:before {
+  content: "\ead9";
+}
+.fa-RightCircleOutlined:before {
+  content: "\eada";
+}
+.fa-RightOutlined:before {
+  content: "\eadb";
+}
+.fa-RightSquareFilled:before {
+  content: "\eadc";
+}
+.fa-RightSquareOutlined:before {
+  content: "\eadd";
+}
+.fa-RiseOutlined:before {
+  content: "\eade";
+}
+.fa-RobotFilled:before {
+  content: "\eadf";
+}
+.fa-RobotOutlined:before {
+  content: "\eae0";
+}
+.fa-RocketFilled:before {
+  content: "\eae1";
+}
+.fa-RocketOutlined:before {
+  content: "\eae2";
+}
+.fa-RollbackOutlined:before {
+  content: "\eae3";
+}
+.fa-RotateLeftOutlined:before {
+  content: "\eae4";
+}
+.fa-RotateRightOutlined:before {
+  content: "\eae5";
+}
+.fa-SafetyCertificateFilled:before {
+  content: "\eae6";
+}
+.fa-SafetyCertificateOutlined:before {
+  content: "\eae7";
+}
+.fa-SafetyOutlined:before {
+  content: "\eae8";
+}
+.fa-SaveFilled:before {
+  content: "\eae9";
+}
+.fa-SaveOutlined:before {
+  content: "\eaea";
+}
+.fa-ScanOutlined:before {
+  content: "\eaeb";
+}
+.fa-ScheduleFilled:before {
+  content: "\eaec";
+}
+.fa-ScheduleOutlined:before {
+  content: "\eaed";
+}
+.fa-ScissorOutlined:before {
+  content: "\eaee";
+}
+.fa-SearchOutlined:before {
+  content: "\eaef";
+}
+.fa-SecurityScanFilled:before {
+  content: "\eaf0";
+}
+.fa-SecurityScanOutlined:before {
+  content: "\eaf1";
+}
+.fa-SelectOutlined:before {
+  content: "\eaf2";
+}
+.fa-SendOutlined:before {
+  content: "\eaf3";
+}
+.fa-SettingFilled:before {
+  content: "\eaf4";
+}
+.fa-SettingOutlined:before {
+  content: "\eaf5";
+}
+.fa-ShakeOutlined:before {
+  content: "\eaf6";
+}
+.fa-ShareAltOutlined:before {
+  content: "\eaf7";
+}
+.fa-ShopFilled:before {
+  content: "\eaf8";
+}
+.fa-ShopOutlined:before {
+  content: "\eaf9";
+}
+.fa-ShoppingCartOutlined:before {
+  content: "\eafa";
+}
+.fa-ShoppingFilled:before {
+  content: "\eafb";
+}
+.fa-ShoppingOutlined:before {
+  content: "\eafc";
+}
+.fa-ShrinkOutlined:before {
+  content: "\eafd";
+}
+.fa-SignalFilled:before {
+  content: "\eafe";
+}
+.fa-SisternodeOutlined:before {
+  content: "\eaff";
+}
+.fa-SketchCircleFilled:before {
+  content: "\eb00";
+}
+.fa-SketchOutlined:before {
+  content: "\eb01";
+}
+.fa-SketchSquareFilled:before {
+  content: "\eb02";
+}
+.fa-SkinFilled:before {
+  content: "\eb03";
+}
+.fa-SkinOutlined:before {
+  content: "\eb04";
+}
+.fa-SkypeFilled:before {
+  content: "\eb05";
+}
+.fa-SkypeOutlined:before {
+  content: "\eb06";
+}
+.fa-SlackCircleFilled:before {
+  content: "\eb07";
+}
+.fa-SlackOutlined:before {
+  content: "\eb08";
+}
+.fa-SlackSquareFilled:before {
+  content: "\eb09";
+}
+.fa-SlackSquareOutlined:before {
+  content: "\eb0a";
+}
+.fa-SlidersFilled:before {
+  content: "\eb0b";
+}
+.fa-SlidersOutlined:before {
+  content: "\eb0c";
+}
+.fa-SmallDashOutlined:before {
+  content: "\eb0d";
+}
+.fa-SmileFilled:before {
+  content: "\eb0e";
+}
+.fa-SmileOutlined:before {
+  content: "\eb0f";
+}
+.fa-SnippetsFilled:before {
+  content: "\eb10";
+}
+.fa-SnippetsOutlined:before {
+  content: "\eb11";
+}
+.fa-SolutionOutlined:before {
+  content: "\eb12";
+}
+.fa-SortAscendingOutlined:before {
+  content: "\eb13";
+}
+.fa-SortDescendingOutlined:before {
+  content: "\eb14";
+}
+.fa-SoundFilled:before {
+  content: "\eb15";
+}
+.fa-SoundOutlined:before {
+  content: "\eb16";
+}
+.fa-SplitCellsOutlined:before {
+  content: "\eb17";
+}
+.fa-StarFilled:before {
+  content: "\eb18";
+}
+.fa-StarOutlined:before {
+  content: "\eb19";
+}
+.fa-StepBackwardFilled:before {
+  content: "\eb1a";
+}
+.fa-StepBackwardOutlined:before {
+  content: "\eb1b";
+}
+.fa-StepForwardFilled:before {
+  content: "\eb1c";
+}
+.fa-StepForwardOutlined:before {
+  content: "\eb1d";
+}
+.fa-StockOutlined:before {
+  content: "\eb1e";
+}
+.fa-StopFilled:before {
+  content: "\eb1f";
+}
+.fa-StopOutlined:before {
+  content: "\eb20";
+}
+.fa-StrikethroughOutlined:before {
+  content: "\eb21";
+}
+.fa-SubnodeOutlined:before {
+  content: "\eb22";
+}
+.fa-SwapLeftOutlined:before {
+  content: "\eb23";
+}
+.fa-SwapOutlined:before {
+  content: "\eb24";
+}
+.fa-SwapRightOutlined:before {
+  content: "\eb25";
+}
+.fa-SwitcherFilled:before {
+  content: "\eb26";
+}
+.fa-SwitcherOutlined:before {
+  content: "\eb27";
+}
+.fa-SyncOutlined:before {
+  content: "\eb28";
+}
+.fa-TableOutlined:before {
+  content: "\eb29";
+}
+.fa-TabletFilled:before {
+  content: "\eb2a";
+}
+.fa-TabletOutlined:before {
+  content: "\eb2b";
+}
+.fa-TagFilled:before {
+  content: "\eb2c";
+}
+.fa-TagOutlined:before {
+  content: "\eb2d";
+}
+.fa-TagsFilled:before {
+  content: "\eb2e";
+}
+.fa-TagsOutlined:before {
+  content: "\eb2f";
+}
+.fa-TaobaoCircleFilled:before {
+  content: "\eb30";
+}
+.fa-TaobaoCircleOutlined:before {
+  content: "\eb31";
+}
+.fa-TaobaoOutlined:before {
+  content: "\eb32";
+}
+.fa-TaobaoSquareFilled:before {
+  content: "\eb33";
+}
+.fa-TeamOutlined:before {
+  content: "\eb34";
+}
+.fa-ThunderboltFilled:before {
+  content: "\eb35";
+}
+.fa-ThunderboltOutlined:before {
+  content: "\eb36";
+}
+.fa-ToolFilled:before {
+  content: "\eb37";
+}
+.fa-ToolOutlined:before {
+  content: "\eb38";
+}
+.fa-ToTopOutlined:before {
+  content: "\eb39";
+}
+.fa-TrademarkCircleFilled:before {
+  content: "\eb3a";
+}
+.fa-TrademarkCircleOutlined:before {
+  content: "\eb3b";
+}
+.fa-TrademarkOutlined:before {
+  content: "\eb3c";
+}
+.fa-TransactionOutlined:before {
+  content: "\eb3d";
+}
+.fa-TranslationOutlined:before {
+  content: "\eb3e";
+}
+.fa-TrophyFilled:before {
+  content: "\eb3f";
+}
+.fa-TrophyOutlined:before {
+  content: "\eb40";
+}
+.fa-TwitterCircleFilled:before {
+  content: "\eb41";
+}
+.fa-TwitterOutlined:before {
+  content: "\eb42";
+}
+.fa-TwitterSquareFilled:before {
+  content: "\eb43";
+}
+.fa-UnderlineOutlined:before {
+  content: "\eb44";
+}
+.fa-UndoOutlined:before {
+  content: "\eb45";
+}
+.fa-UngroupOutlined:before {
+  content: "\eb46";
+}
+.fa-UnlockFilled:before {
+  content: "\eb47";
+}
+.fa-UnlockOutlined:before {
+  content: "\eb48";
+}
+.fa-UnorderedListOutlined:before {
+  content: "\eb49";
+}
+.fa-UpCircleFilled:before {
+  content: "\eb4a";
+}
+.fa-UpCircleOutlined:before {
+  content: "\eb4b";
+}
+.fa-UpOutlined:before {
+  content: "\eb4c";
+}
+.fa-UpSquareFilled:before {
+  content: "\eb4d";
+}
+.fa-UpSquareOutlined:before {
+  content: "\eb4e";
+}
+.fa-UsbFilled:before {
+  content: "\eb4f";
+}
+.fa-UsbOutlined:before {
+  content: "\eb50";
+}
+.fa-UserAddOutlined:before {
+  content: "\eb51";
+}
+.fa-UserOutlined:before {
+  content: "\eb52";
+}
+.fa-VerticalAlignBottomOutlined:before {
+  content: "\eb53";
+}
+.fa-VerticalAlignMiddleOutlined:before {
+  content: "\eb54";
+}
+.fa-VerticalAlignTopOutlined:before {
+  content: "\eb55";
+}
+.fa-VerticalLeftOutlined:before {
+  content: "\eb56";
+}
+.fa-VerticalRightOutlined:before {
+  content: "\eb57";
+}
+.fa-VideoCameraFilled:before {
+  content: "\eb58";
+}
+.fa-WalletFilled:before {
+  content: "\eb59";
+}
+.fa-WarningFilled:before {
+  content: "\eb5a";
+}
+.fa-WarningOutlined:before {
+  content: "\eb5b";
+}
+.fa-WechatFilled:before {
+  content: "\eb5c";
+}
+.fa-WechatOutlined:before {
+  content: "\eb5d";
+}
+.fa-WeiboCircleFilled:before {
+  content: "\eb5e";
+}
+.fa-WeiboCircleOutlined:before {
+  content: "\eb5f";
+}
+.fa-WeiboOutlined:before {
+  content: "\eb60";
+}
+.fa-WeiboSquareFilled:before {
+  content: "\eb61";
+}
+.fa-WeiboSquareOutlined:before {
+  content: "\eb62";
+}
+.fa-WindowsFilled:before {
+  content: "\eb63";
+}
+.fa-WindowsOutlined:before {
+  content: "\eb64";
+}
+.fa-YahooFilled:before {
+  content: "\eb65";
+}
+.fa-YahooOutlined:before {
+  content: "\eb66";
+}
+.fa-YoutubeFilled:before {
+  content: "\eb67";
+}
+.fa-YoutubeOutlined:before {
+  content: "\eb68";
+}
+.fa-YuqueFilled:before {
+  content: "\eb69";
+}
+.fa-YuqueOutlined:before {
+  content: "\eb6a";
+}
+.fa-ZhihuCircleFilled:before {
+  content: "\eb6b";
+}
+.fa-ZhihuOutlined:before {
+  content: "\eb6c";
+}
+.fa-ZhihuSquareFilled:before {
+  content: "\eb6d";
+}
+.fa-ZoomInOutlined:before {
+  content: "\eb6e";
+}
+.fa-ZoomOutOutlined:before {
+  content: "\eb6f";
+}
+.fa-Accounts-Outlined:before {
+  content: "\eb70";
+}
+.fa-Archive---Outlined-1:before {
+  content: "\eb71";
+}
+.fa-Bills-Outlined:before {
+  content: "\eb72";
+}
+.fa-Customers-Outlined:before {
+  content: "\eb73";
+}
+.fa-Cutsomer-Receipts-Outlined:before {
+  content: "\eb74";
+}
+.fa-Deductions-Outlined:before {
+  content: "\eb75";
+}
+.fa-Gear-r:before {
+  content: "\eb76";
+}
+.fa-Group-2290:before {
+  content: "\eb77";
+}
+.fa-Inovice-Outlined:before {
+  content: "\eb78";
+}
+.fa-Loan-Outlined:before {
+  content: "\eb79";
+}
+.fa-ManualJornal-Outlined:before {
+  content: "\eb7a";
+}
+.fa-Payroll-Outlined:before {
+  content: "\eb7b";
+}
+.fa-Products-Outlined:before {
+  content: "\eb7c";
+}
+.fa-Projects-Outlined:before {
+  content: "\eb7d";
+}
+.fa-Purchases-Orders:before {
+  content: "\eb7e";
+}
+.fa-Qoyod:before {
+  content: "\eb7f";
+}
+.fa-Question-r:before {
+  content: "\eb80";
+}
+.fa-Quotations-Outlined:before {
+  content: "\eb81";
+}
+.fa-Reports-Outlined:before {
+  content: "\eb82";
+}
+.fa-Tasks-Outlined:before {
+  content: "\eb83";
+}
+.fa-Vendor-Receipts-Outlined:before {
+  content: "\eb84";
+}
+.fa-Vendors-Outlined:before {
+  content: "\eb85";
+}
