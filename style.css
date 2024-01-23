@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'qouod';
   src:
-    url('fonts/qouod.ttf?1rlj39') format('truetype'),
-    url('fonts/qouod.woff?1rlj39') format('woff'),
-    url('fonts/qouod.svg?1rlj39#qouod') format('svg');
+    url('fonts/qouod.ttf?500ltb') format('truetype'),
+    url('fonts/qouod.woff?500ltb') format('woff'),
+    url('fonts/qouod.svg?500ltb#qouod') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -24,6 +24,48 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.fa-AccountBookOutlined:before {
+  content: "\eb86";
+}
+.fa-AimOutlined:before {
+  content: "\eb87";
+}
+.fa-UploadOutlined:before {
+  content: "\eb88";
+}
+.fa-UserDeleteOutlined:before {
+  content: "\eb89";
+}
+.fa-UsergroupAddOutlined:before {
+  content: "\eb8a";
+}
+.fa-UsergroupDeleteOutlined:before {
+  content: "\eb8b";
+}
+.fa-UserSwitchOutlined:before {
+  content: "\eb8c";
+}
+.fa-VerifiedOutlined:before {
+  content: "\eb8d";
+}
+.fa-VideoCameraAddOutlined:before {
+  content: "\eb8e";
+}
+.fa-VideoCameraOutlined:before {
+  content: "\eb8f";
+}
+.fa-WalletOutlined:before {
+  content: "\eb90";
+}
+.fa-WhatsAppOutlined:before {
+  content: "\eb91";
+}
+.fa-WifiOutlined:before {
+  content: "\eb92";
+}
+.fa-WomanOutlined:before {
+  content: "\eb93";
+}
 .fa-AccountBookFilled:before {
   content: "\e900";
 }
