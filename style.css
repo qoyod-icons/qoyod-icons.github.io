@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'qouod';
   src:
-    url('fonts/qouod.ttf?31ga1p') format('truetype'),
-    url('fonts/qouod.woff?31ga1p') format('woff'),
-    url('fonts/qouod.svg?31ga1p#qouod') format('svg');
+    url('fonts/qouod.ttf?ob0213') format('truetype'),
+    url('fonts/qouod.woff?ob0213') format('woff'),
+    url('fonts/qouod.svg?ob0213#qouod') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -24,6 +24,36 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.fa-briefcase-filled:before {
+  content: "\eba0";
+}
+.fa-briefcase-outline:before {
+  content: "\eba1";
+}
+.fa-briefcase:before {
+  content: "\eba2";
+}
+.fa-level-up-1:before {
+  content: "\eba3";
+}
+.fa-level-up-2:before {
+  content: "\eba4";
+}
+.fa-level-up-3:before {
+  content: "\eba5";
+}
+.fa-Circle-thin:before {
+  content: "\eba6";
+}
+.fa-Circle-fill:before {
+  content: "\eba7";
+}
+.fa-Gears-outline:before {
+  content: "\eba8";
+}
+.fa-Gears-fill:before {
+  content: "\eba9";
+}
 .fa-Money:before {
   content: "\eb9e";
 }
